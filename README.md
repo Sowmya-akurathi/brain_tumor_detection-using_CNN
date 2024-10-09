@@ -17,9 +17,6 @@ The dataset used in this project is organized into two main directories:
 
 brain_tumor_dataset/ │ ├── training/ │ ├── healthy/ │ └── tumor/ │ └── validation/ ├── healthy/ └── tumor/
 
-markdown
-Copy code
-
 ## Installation
 
 To run this project, you need to have Python and the following libraries installed:
@@ -31,13 +28,11 @@ To run this project, you need to have Python and the following libraries install
 
 You can install the required libraries using pip:
 
-```bash
+
 pip install tensorflow numpy matplotlib
 Usage
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your_username/brain-tumor-detection.git
 cd brain-tumor-detection
 Open the Jupyter Notebook or Python script in your preferred IDE or Google Colab.
@@ -65,8 +60,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Acknowledgments
 Thank you to all the contributors and resources that helped in building this project.
 The dataset used in this project is publicly available and can be found at [source link if applicable].
-markdown
-Copy code
 
 ### Instructions to Customize:
 
