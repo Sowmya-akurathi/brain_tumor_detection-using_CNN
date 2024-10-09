@@ -1,4 +1,3 @@
-# brain_tumor_detection-using_CNN
 # Brain Tumor Detection Using CNN
 
 ## Project Overview
